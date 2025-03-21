@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//:arameamiryan2007.github.io/project-desinger-77/static/css/main.c67362f4.css",
-    "main.js": "/http//:arameamiryan2007.github.io/project-desinger-77/static/js/main.c737d270.js",
-    "static/js/453.419a5d54.chunk.js": "/http//:arameamiryan2007.github.io/project-desinger-77/static/js/453.419a5d54.chunk.js",
-    "index.html": "/http//:arameamiryan2007.github.io/project-desinger-77/index.html",
-    "main.c67362f4.css.map": "/http//:arameamiryan2007.github.io/project-desinger-77/static/css/main.c67362f4.css.map",
-    "main.c737d270.js.map": "/http//:arameamiryan2007.github.io/project-desinger-77/static/js/main.c737d270.js.map",
-    "453.419a5d54.chunk.js.map": "/http//:arameamiryan2007.github.io/project-desinger-77/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/project-desinger-77/static/css/main.c67362f4.css",
+    "main.js": "/project-desinger-77/static/js/main.68f725cc.js",
+    "static/js/453.419a5d54.chunk.js": "/project-desinger-77/static/js/453.419a5d54.chunk.js",
+    "index.html": "/project-desinger-77/index.html",
+    "main.c67362f4.css.map": "/project-desinger-77/static/css/main.c67362f4.css.map",
+    "main.68f725cc.js.map": "/project-desinger-77/static/js/main.68f725cc.js.map",
+    "453.419a5d54.chunk.js.map": "/project-desinger-77/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c67362f4.css",
-    "static/js/main.c737d270.js"
+    "static/js/main.68f725cc.js"
   ]
 }
